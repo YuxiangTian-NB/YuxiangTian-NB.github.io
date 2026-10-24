@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuxiangtian-nb.github.io/sitemap.xml
